@@ -34,7 +34,9 @@ Go to [heroku.com](http://www.heroku.com) and sign up for a free account. Rememb
 3. Once installed, you'll have access to the heroku app from the terminal by running `heroku login`. Enter the email address and password you used when creating your Heroku account.
 
 ###### windows users
-got to [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli) 
+`sudo apt-get install heroku`
+got to [heroku-cli]
+(https://devcenter.heroku.com/articles/heroku-cli) 
 
 ##### At this point you should have a personal Heroku account and the Heroku CLI toolbelt should be installed
 
